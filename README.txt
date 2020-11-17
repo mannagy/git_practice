@@ -1,0 +1,1 @@
+Hello GIT and GITHUB. This is the test project.
